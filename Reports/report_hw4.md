@@ -1,0 +1,1 @@
+For fibonachchi, I use FUTURE_SHARED because to compute N-th fibonachchi number, except for the 0th and N-1th fibonachchi numbers, future_get function will be called twice to access every intermediate fibonachchi numbers.

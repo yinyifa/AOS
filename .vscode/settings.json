@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tscdf_input.h": "c",
+        "tscdf.h": "c"
+    }
+}
