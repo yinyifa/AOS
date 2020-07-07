@@ -13,6 +13,5 @@ The PLATFORM variable should be set to one of:
 
 # Report of Assignment
 
-
 The reports of assignments are in folder "Reports".
 
